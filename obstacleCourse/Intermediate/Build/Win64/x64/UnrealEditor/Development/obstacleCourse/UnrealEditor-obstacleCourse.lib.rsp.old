@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-obstacleCourse.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\2326296\Documents\GitHub\shitpostlesson\obstacleCourse\Intermediate\Build\Win64\x64\obstacleCourseEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Users\2326296\Documents\GitHub\shitpostlesson\obstacleCourse\Intermediate\Build\Win64\x64\UnrealEditor\Development\obstacleCourse\movingobjects.gen.cpp.obj"
+"C:\Users\2326296\Documents\GitHub\shitpostlesson\obstacleCourse\Intermediate\Build\Win64\x64\UnrealEditor\Development\obstacleCourse\obstacleCourse.init.gen.cpp.obj"
+"C:\Users\2326296\Documents\GitHub\shitpostlesson\obstacleCourse\Intermediate\Build\Win64\x64\UnrealEditor\Development\obstacleCourse\movingobjects.cpp.obj"
+"C:\Users\2326296\Documents\GitHub\shitpostlesson\obstacleCourse\Intermediate\Build\Win64\x64\UnrealEditor\Development\obstacleCourse\obstacleCourse.cpp.obj"
+"C:\Users\2326296\Documents\GitHub\shitpostlesson\obstacleCourse\Intermediate\Build\Win64\x64\UnrealEditor\Development\obstacleCourse\Default.rc2.res"
+/OUT:"C:\Users\2326296\Documents\GitHub\shitpostlesson\obstacleCourse\Intermediate\Build\Win64\x64\UnrealEditor\Development\obstacleCourse\UnrealEditor-obstacleCourse.lib"

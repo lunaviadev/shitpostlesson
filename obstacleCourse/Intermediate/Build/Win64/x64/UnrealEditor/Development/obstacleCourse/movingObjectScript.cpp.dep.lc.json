@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\2326296\\documents\\github\\shitpostlesson\\obstaclecourse\\source\\obstaclecourse\\movingobjectscript.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\2326296\\documents\\github\\shitpostlesson\\obstaclecourse\\intermediate\\build\\win64\\x64\\obstaclecourseeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\2326296\\documents\\github\\shitpostlesson\\obstaclecourse\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\obstaclecourse\\definitions.obstaclecourse.h",
+            "c:\\users\\2326296\\documents\\github\\shitpostlesson\\obstaclecourse\\source\\obstaclecourse\\movingobjectscript.h",
+            "c:\\users\\2326296\\documents\\github\\shitpostlesson\\obstaclecourse\\intermediate\\build\\win64\\unrealeditor\\inc\\obstaclecourse\\uht\\movingobjectscript.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
