@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\obstacleCourse.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\obstacleCourse.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\obstacleCourseEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\obstacleCourse">
+      <UniqueIdentifier>{F3C04627-8E26-3000-A4D2-760A6CE39D4C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\obstacleCourse\obstacleCourse.Build.cs">
+      <Filter>Source\obstacleCourse</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\obstacleCourse\obstacleCourse.cpp">
+      <Filter>Source\obstacleCourse</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\obstacleCourse\obstacleCourse.h">
+      <Filter>Source\obstacleCourse</Filter>
+    </ClInclude>
+    <Filter Include="Source\obstacleCourse\TP_ThirdPerson">
+      <UniqueIdentifier>{5EB324BC-64CC-3395-96CC-0B408DFC7664}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\obstacleCourse\TP_ThirdPerson\TP_ThirdPerson.h">
+      <Filter>Source\obstacleCourse\TP_ThirdPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\obstacleCourse\TP_ThirdPerson\TP_ThirdPersonCharacter.cpp">
+      <Filter>Source\obstacleCourse\TP_ThirdPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\obstacleCourse\TP_ThirdPerson\TP_ThirdPersonCharacter.h">
+      <Filter>Source\obstacleCourse\TP_ThirdPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\obstacleCourse\TP_ThirdPerson\TP_ThirdPersonGameMode.cpp">
+      <Filter>Source\obstacleCourse\TP_ThirdPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\obstacleCourse\TP_ThirdPerson\TP_ThirdPersonGameMode.h">
+      <Filter>Source\obstacleCourse\TP_ThirdPerson</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
